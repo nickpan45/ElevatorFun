@@ -1,5 +1,20 @@
 # Elevator Simulation System
 
+## How to Run the  Elevator Simulation
+### **Steps**
+
+```bash
+   https://github.com/nickpan45/ElevatorFun.git
+```
+```bash
+    cd ElevatorFun 
+```
+```bash
+   ./gradlew run
+```   
+
+
+
 ## Overview
 This project is a **multi-threaded Elevator Simulation System** that models real-world elevator operations in a **12-floor building** with **4 elevators** handling **random requests from people**. The system ensures:
 - **Efficient elevator selection** using **priority-based movement**.
@@ -29,9 +44,3 @@ This project is a **multi-threaded Elevator Simulation System** that models real
 4. **Simulate movement** and **log events** dynamically.
 5. **Shutdown elevators** when the simulation ends.
 
-## Installation & Running the Simulation
-### **Steps**
-1. **Clone the repository**:
-   --> bash
-   https://github.com/nickpan45/ElevatorFun.git
-   cd elevator-simulation
