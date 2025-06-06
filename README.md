@@ -25,7 +25,6 @@ This project is a **multi-threaded Elevator Simulation System** that models real
 2. **Generate 8 people** requesting elevators **at random intervals**.
 3. **Assign best elevator** based on:
    - **Proximity** (closest available elevator).
-   - **Direction** (reducing unnecessary movement).
    - **Security access** (restricted floors validation).
 4. **Simulate movement** and **log events** dynamically.
 5. **Shutdown elevators** when the simulation ends.
