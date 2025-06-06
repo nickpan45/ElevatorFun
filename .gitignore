@@ -3,6 +3,7 @@
 .gradle/
 gradle.log
 
+!gradle/wrapper/gradle-wrapper.jar
 # Target directory (common in Maven projects, but if used in Gradle, exclude it)
 target/
 
